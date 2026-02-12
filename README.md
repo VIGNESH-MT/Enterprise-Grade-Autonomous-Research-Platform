@@ -168,3 +168,77 @@ This is not a chatbot that pretends to be certain. This is an **intellectual hon
                           [ REPORT ]
                           
 ```
+
+**This is not a pipeline.** A pipeline implies linearity. This is a **cognitive graph**—recursive, adaptive, and self-correcting. Agents communicate laterally. Findings from the News Researcher may trigger new queries from the Patent Researcher. The Pattern Analyst may reject the Synthesizer's conclusion and request re-analysis.
+
+The system thinks the way you think: **non-linearly**.
+
+---
+
+## 🔬 Agent Families
+
+### Family α: Supply Chain Intelligence
+
+**Cognitive Specialization:** Physical flow optimization, risk propagation, supplier network analysis
+
+**Epistemic Commitments:**
+- Suppliers are nodes in a directed graph with weighted edges
+- Disruptions propagate through the graph with measurable latency
+- Inventory acts as a buffer against stochastic demand
+- Certification status is a leading indicator of reliability
+
+**Source Priorities:**
+1. Customs databases (tariff classifications, import/export volumes)
+2. Logistics APIs (shipment tracking, port congestion)
+3. Supplier financial reports (Altman Z-scores, DPO)
+4. Trade publications (industry-specific intelligence)
+5. Patent filings (technology trajectories)
+
+**Output Schema:**
+```typescript
+interface SupplyChainRisk {
+  supplier: {
+    name: string
+    tier: 1 | 2 | 3 | 4
+    location: string
+    certifications: string[]
+  }
+  riskVector: {
+    financial: number      // 0-1, based on credit ratings
+    operational: number    // 0-1, based on capacity utilization
+    geopolitical: number   // 0-1, based on country risk
+    environmental: number  // 0-1, based on ESG scores
+  }
+  disruptionProbability: number
+  alternativeSuppliers: Array<{
+    name: string
+    qualificationTime: string // ISO 8601 duration
+    costPremium: number      // percentage
+  }>
+  recommendations: string[]
+} 
+```
+Family β: Financial Compliance
+Cognitive Specialization: Regulatory mapping, control testing, risk assessment
+
+Epistemic Commitments:
+
+Regulations form a hierarchy (Acts → Regulations → Guidance)
+
+Controls mitigate risks with measurable effectiveness
+
+Compliance is non-binary (partial compliance is meaningful)
+
+Precedent establishes interpretation
+
+Source Priorities:
+
+Regulatory databases (FCA Handbook, EU Official Journal)
+
+Enforcement actions (SEC, BaFin, FCA)
+
+Industry guidance (Basel Committee, ESMA)
+
+Legal databases (Westlaw, LexisNexis)
+
+Internal policy documents 
