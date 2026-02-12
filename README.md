@@ -35,7 +35,7 @@ The marginal value of another conversational interface is zero.
 What does not exist—what cannot be bought from OpenAI, Anthropic, or Google—is **an autonomous reasoning engine that replaces the cognitive labor of senior analysts**.
 
 Not summarization. Not chat. **Discovery.**
-
+---
 This project exists because:
 
 1. **A single research scientist at Bosch spends 60% of their week reading supplier documents, patent filings, and logistics reports.** They were hired to innovate, not to parse PDFs.
@@ -218,7 +218,7 @@ interface SupplyChainRisk {
   recommendations: string[]
 } 
 ```
-Family β: Financial Compliance
+###Family β: Financial Compliance
 Cognitive Specialization: Regulatory mapping, control testing, risk assessment
 
 Epistemic Commitments:
