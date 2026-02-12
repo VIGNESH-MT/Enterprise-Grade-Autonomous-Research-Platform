@@ -1,4 +1,4 @@
-# [ λ ] NEURON · Autonomous Research Intelligence
+# Autonomous Research Intelligence
 
 **Because the rate of discovery should not be limited by human reading speed.**
 
@@ -245,7 +245,7 @@ Internal policy documents
 
 Output Schema:
 
-typescript
+```typescript
 interface ComplianceAssessment {
   regulatoryRequirement: {
     id: string
@@ -275,8 +275,10 @@ interface ComplianceAssessment {
     peerComplianceRate: number
     industryAverageEffectiveness: number
   }
-}
-Family γ: Urban Systems Intelligence
+} 
+```
+---
+### Family γ: Urban Systems Intelligence
 Cognitive Specialization: Infrastructure optimization, population modeling, environmental impact
 
 Epistemic Commitments:
@@ -288,7 +290,7 @@ Infrastructure domains are coupled (power affects water affects transport)
 Population behavior follows predictable distributions
 
 Environmental impact is multi-dimensional and time-lagged
-
+---
 Source Priorities:
 
 Municipal open data portals (transport, energy, water)
@@ -300,10 +302,10 @@ IoT sensor networks (traffic, air quality, occupancy)
 Census and demographic data
 
 Climate projections
-
+---
 Output Schema:
 
-typescript
+```typescript
 interface UrbanIntelligence {
   domain: 'transportation' | 'energy' | 'water' | 'waste' | 'housing'
   metrics: {
@@ -331,14 +333,16 @@ interface UrbanIntelligence {
     costEstimate: number
     roi: number
   }>
-}
-🧪 Epistemology Layer
+} 
+``` 
+---
+### Epistemology Layer
 The most sophisticated component is invisible to users.
 
 The Epistemology Layer encodes how each domain establishes truth:
 
 Supply Chain Epistemology
-typescript
+```typescript
 // How does the system know a supplier is "reliable"?
 const supplierCredibility = {
   // Direct evidence (highest weight)
@@ -378,14 +382,15 @@ const regulatoryApplicability = {
   // Precedent weighting
   precedentWeighting: (citations: number) => 
     Math.min(0.8, 0.5 + (citations * 0.01))
-}
+} 
+```
 💾 Memory Architecture
 Most RAG systems treat memory as a vector database with a retrieval function.
 
 This is not memory. This is search.
 
 True memory requires:
-
+---
 1. Episodic Memory
 sql
 -- Every research session is stored, indexed, and learnable
@@ -535,7 +540,7 @@ Customers: G42, Emirates Group, multinational corporates
 🔬 Research Preprint (2026)
 Title: Emergent Domain Specialization in Multi-Agent Cognitive Architectures
 
-Authors: NEURON Research Collective
+Authors: 
 
 Abstract:
 
@@ -614,7 +619,7 @@ Surface patterns you could not have perceived
 Remember what your organization has already learned
 
 Execute in parallel what you execute sequentially
-
+---
 What remains is the work of being human:
 
 Asking better questions
@@ -626,12 +631,13 @@ Making judgment calls on insufficient evidence
 Taking responsibility for decisions
 
 The machine handles the rest.
-
+---
 🔗 Connection
 text
-Enterprise Inquiries:    cognitive@neuron.ai
-Research Collaboration:  lab@neuron.ai
+Enterprise Inquiries:    vigneshmurugesan8588@gmail.com
+Research Collaboration:  vigneshm90160@gmail.com
 Signal:                  @neuron.alpha
 *Response time: 4-6 hours for qualified enterprise, 2-3 weeks otherwise.*
 
 <div align="center"> <br /> <sub> Built in Berlin · Dubai · London<br /> Certified B-Corp (Pending)<br /> © 2026 NEURON Research Collective </sub> <br /> <br /> <sub> <em>The rate of discovery should not be limited by human reading speed.</em> </sub> </div> ```
+---
