@@ -572,7 +572,7 @@ You plan a city of 1M+ people and cannot model infrastructure interdependencies
 You have attempted to build this internally and discovered that prompt engineering is not architecture
 
 The first 10 enterprise customers will receive a dedicated cognitive scientist for 6 months.
-
+```
 🧬 Project DNA
 text
 Lead Architect:      [REDACTED] - Former Principal Engineer, Anthropic
@@ -581,6 +581,7 @@ Domain (Supply):     [REDACTED] - Ex-VP Supply Chain, BMW
 Domain (Finance):    [REDACTED] - Ex-Global Head of Compliance, HSBC
 Domain (Urban):      [REDACTED] - Chief Data Officer, Dubai Municipality (2022-25)
 Infrastructure:      [REDACTED] - Ex-Staff Engineer, AWS
+```
 Full identities disclosed to qualified enterprise partners.
 
 📜 Manifesto
