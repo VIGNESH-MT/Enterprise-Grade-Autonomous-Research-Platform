@@ -218,7 +218,7 @@ interface SupplyChainRisk {
   recommendations: string[]
 } 
 ```
-###Family β: Financial Compliance
+### Family β: Financial Compliance
 Cognitive Specialization: Regulatory mapping, control testing, risk assessment
 
 Epistemic Commitments:
