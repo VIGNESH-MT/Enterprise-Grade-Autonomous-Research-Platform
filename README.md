@@ -104,6 +104,7 @@ This is not a chatbot that pretends to be certain. This is an **intellectual hon
 ---
 
 ## 🧠 Cognitive Architecture
+```bash
 
                           [ QUERY ]
                               │
@@ -166,3 +167,4 @@ This is not a chatbot that pretends to be certain. This is an **intellectual hon
                               ▼
                           [ REPORT ]
                           
+```
