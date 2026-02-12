@@ -488,7 +488,7 @@ Total (standard depth)	19.7s	29.8s	40.3s
 🏛️ Deployment Topologies
 Topology A: Sovereign Cloud
 For organizations that cannot send data to US hyperscalers:
-
+```
 text
 ┌─────────────────────────────────────────────────────────┐
 │                 German Sovereign Cloud                   │
@@ -536,6 +536,7 @@ text
 │ • Pinecone  │ • Pinecone  │             │             │
 └─────────────┴─────────────┴─────────────┴─────────────┘
 Customers: G42, Emirates Group, multinational corporates
+```
 
 🔬 Research Preprint (2026)
 Title: Emergent Domain Specialization in Multi-Agent Cognitive Architectures
@@ -636,7 +637,7 @@ The machine handles the rest.
 text
 Enterprise Inquiries:    vigneshmurugesan8588@gmail.com
 Research Collaboration:  vigneshm90160@gmail.com
-Signal:                  @neuron.alpha
+Signal:                  
 *Response time: 4-6 hours for qualified enterprise, 2-3 weeks otherwise.*
 
 <div align="center"> <br /> <sub> Built in Berlin · Dubai · London<br /> Certified B-Corp (Pending)<br /> © 2026 NEURON Research Collective </sub> <br /> <br /> <sub> <em>The rate of discovery should not be limited by human reading speed.</em> </sub> </div> ```
