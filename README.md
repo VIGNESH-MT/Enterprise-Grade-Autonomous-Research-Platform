@@ -324,11 +324,11 @@ We optimize for:
 
 # XII. Final Statement
 
-If the rate of discovery remains constrained by human reading speed, stagnation is a choice.
+- If the rate of discovery remains constrained by human reading speed, stagnation is a choice.
 
-The next competitive advantage will not be larger models.
+- The next competitive advantage will not be larger models.
 
-It will be better architectures.
+- It will be better architectures.
 
 This repository documents one attempt.
 
